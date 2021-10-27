@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest --watchAll",
+    "test": "jest",
     "watchIndex": "nodemon ./dev/index.ts --ignore ./**/*.js",
     "execute": "node demo/",
     "nodetests": "nodemon demo/ --ignore ./assets/ --ignore ./dev/",
