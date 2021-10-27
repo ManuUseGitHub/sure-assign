@@ -1,0 +1,19 @@
+{
+  "name": "sure-assign",
+  "version": "1.0.0",
+  "description": "Helps to assign objects into another resulting object with integrity check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Luc Emmanuel VERHANNEMAN",
+  "license": "MIT",
+
+  "keywords": [
+    "object",
+    "assign",
+    "integrity",
+    "options",
+    "merge"
+  ]
+}

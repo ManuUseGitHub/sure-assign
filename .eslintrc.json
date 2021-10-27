@@ -1,0 +1,74 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": 2021
+    },
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "rules": {
+        "@typescript-eslint/no-explicit-any": "off",
+        "space-in-parens": [
+            "error",
+            "always"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "comma-spacing": [
+            "error",
+            {
+                "before": true,
+                "after": true
+            }
+        ],
+        "switch-colon-spacing": [
+            "error",
+            {
+                "after": true,
+                "before": true
+            }
+        ],
+        "key-spacing": [
+            "error",
+            {
+                "beforeColon": true,
+                "afterColon": true
+            }
+        ],
+        "object-curly-spacing": [
+            "error",
+            "always"
+        ],
+        "array-bracket-spacing": [
+            "error",
+            "always"
+        ],
+        "computed-property-spacing": [
+            "error",
+            "always"
+        ],
+        "lines-around-comment": [
+            "error",
+            {
+                "beforeBlockComment": true,
+                "beforeLineComment": true,
+                "allowBlockStart": false
+            }
+        ]
+    }
+}
