@@ -1,4 +1,4 @@
-# Sure ~ assign <br/>[![npm version](https://badge.fury.io/js/sure-assign.svg)](https://badge.fury.io/js/rehookt) [![Build Status](https://travis-ci.com/ManuUseGitHub/sure-assign.svg?branch=master)](https://travis-ci.com/ManuUseGitHub/sure-assign) [![License: MIT](https://img.shields.io/badge/License-MIT-61dafb.svg)](https://github.com/ManuUseGitHub/sure-assign/blob/master/LICENSE)
+# Sure ~ assign <br/>[![npm version](https://badge.fury.io/js/sure-assign.svg)](https://badge.fury.io/js/rehookt) [![Build Status](https://app.travis-ci.com/ManuUseGitHub/sure-assign.svg?branch=master)](https://app.travis-ci.com/ManuUseGitHub/sure-assign) [![License: MIT](https://img.shields.io/badge/License-MIT-61dafb.svg)](https://github.com/ManuUseGitHub/sure-assign/blob/master/LICENSE)
 
 ## INTRO
 
