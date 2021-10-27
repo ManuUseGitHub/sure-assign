@@ -1,6 +1,6 @@
 {
   "name": "sure-assign",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Helps to assign objects into another resulting object with integrity check",
   "main": "index.js",
   "scripts": {
